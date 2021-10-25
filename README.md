@@ -1,2 +1,3 @@
 # bemuse-official-music-server
-Scripts and tools to manage the official music server (no songs in this repository)
+
+Bemuse Official Music Server [index file](index.json).
