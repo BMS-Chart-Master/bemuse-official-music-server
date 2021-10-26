@@ -3245,7 +3245,7 @@
     },
     {
       "title": "BY☆MY☆SIDE",
-      "artist": "flicknote",
+      "artist": "BEMUSE SOUND TEAM",
       "genre": "Trance Core",
       "bpm": 178,
       "artist_url": "https://soundcloud.com/o_ooooo",
@@ -9458,6 +9458,623 @@
       "warnings": [],
       "id": "[yukitani]acp",
       "path": "https://music4.bemuse.ninja/songs/[yukitani]acp/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "9abb4fd470b85dfaeecd6cf6bf961ecc",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "SEQUENCER|ORIGIN"
+            ],
+            "subartists": [],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1581,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": true,
+          "keys": "5K",
+          "file": "sequencerorigin.bms"
+        },
+        {
+          "md5": "67334d4007667d7220dab9b94339479f",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "5K HYPER"
+            ],
+            "subartists": [
+              "obj.flicknote"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 739,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": false,
+          "keys": "5K",
+          "file": "_5hyper_renote.bms"
+        },
+        {
+          "md5": "b6d72f7e2b7900c825b7c92ab48a6186",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "5K LIGHT"
+            ],
+            "subartists": [
+              "obj.flicknote"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 236,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5easy_renote.bms"
+        },
+        {
+          "md5": "75aa76dcaaa6e039d81b24b74fb4c306",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "PLAYER"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 2
+          },
+          "noteCount": 33,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": true,
+          "keys": "7K",
+          "file": "player.bms"
+        },
+        {
+          "md5": "f84fda4df02dcc5901302ebf8daf86f0",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "SEQUENCER"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1581,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": true,
+          "keys": "7K",
+          "file": "sequencer.bms"
+        },
+        {
+          "md5": "5c156091b954708f5c6723d201933ef7",
+          "info": {
+            "title": "Credits",
+            "artist": "Frums",
+            "genre": "OTHER TIME",
+            "subtitles": [
+              "PERFORMER"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 819,
+          "bpm": {
+            "init": 179,
+            "min": 179,
+            "median": 179,
+            "max": 179
+          },
+          "duration": 97.20670391061452,
+          "scratch": true,
+          "keys": "7K",
+          "file": "performer.bms"
+        }
+      ],
+      "title": "Credits",
+      "artist": "Frums",
+      "genre": "OTHER TIME",
+      "bpm": 179,
+      "replaygain": "0.07 dB",
+      "preview_offset": 33,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/frums/credits",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+      "youtube_url": "https://www.youtube.com/watch?v=EOTAWLaDa58",
+      "long_url": "https://gdbg.tv/release/2015-3-5",
+      "bmssearch_id": "OVCV5qqgbjr8dh",
+      "artist_url": "http://www.frums.xyz/",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "video_url": "bemuse-data/bga.webm",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "readme": "README.md",
+      "added": "2021-10-26T00:00:00.000Z",
+      "id": "[frums]credits",
+      "path": "https://music4.bemuse.ninja/songs/[frums]credits/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "1674d981a5080fdbd7d547cc5cd141b3",
+          "info": {
+            "title": "Options",
+            "artist": "Frums",
+            "genre": "VAPOR",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 7
+          },
+          "noteCount": 718,
+          "bpm": {
+            "init": 87,
+            "min": 87,
+            "median": 87,
+            "max": 87
+          },
+          "duration": 131.83908045977012,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Options_sp_hyper.bms"
+        },
+        {
+          "md5": "2d98c636efab0f7b47a492d062bb870c",
+          "info": {
+            "title": "Options",
+            "artist": "Frums",
+            "genre": "VAPOR",
+            "subtitles": [
+              "[5K HYPER]"
+            ],
+            "subartists": [
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 6
+          },
+          "noteCount": 506,
+          "bpm": {
+            "init": 87,
+            "min": 87,
+            "median": 87,
+            "max": 87
+          },
+          "duration": 131.83908045977012,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5hyper_renote.bms"
+        },
+        {
+          "md5": "d97b573e679a47e2e9495fb11b20230a",
+          "info": {
+            "title": "Options",
+            "artist": "Frums",
+            "genre": "VAPOR",
+            "subtitles": [
+              ";"
+            ],
+            "subartists": [
+              "obj. BK"
+            ],
+            "difficulty": 5,
+            "level": 0
+          },
+          "noteCount": 1211,
+          "bpm": {
+            "init": 87,
+            "min": 87,
+            "median": 87,
+            "max": 87
+          },
+          "duration": 131.83908045977012,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Options_semicolon.bms"
+        },
+        {
+          "md5": "1ff45c911571dbb49f5f1a6048736478",
+          "info": {
+            "title": "Options",
+            "artist": "Frums",
+            "genre": "VAPOR",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 999,
+          "bpm": {
+            "init": 87,
+            "min": 87,
+            "median": 87,
+            "max": 87
+          },
+          "duration": 131.83908045977012,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Options_sp_another.bms"
+        },
+        {
+          "md5": "934e6d8e5953b1da852ce0221857d525",
+          "info": {
+            "title": "Options",
+            "artist": "Frums",
+            "genre": "VAPOR",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 434,
+          "bpm": {
+            "init": 87,
+            "min": 87,
+            "median": 87,
+            "max": 87
+          },
+          "duration": 131.83908045977012,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Options_sp_normal.bms"
+        }
+      ],
+      "title": "Options",
+      "artist": "Frums",
+      "genre": "VAPOR",
+      "bpm": 87,
+      "replaygain": "-2.09 dB",
+      "preview_offset": 57,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.webm",
+      "video_offset": 2.75,
+      "song_url": "https://soundcloud.com/frums/options",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=256&event=116",
+      "youtube_url": "https://www.youtube.com/watch?v=knXGYSdtr_k",
+      "bmssearch_id": "x6J5Wp4IMZ4b5M",
+      "artist_url": "http://www.frums.xyz/",
+      "readme": "README.md",
+      "added": "2021-10-26T00:00:00.000Z",
+      "id": "[frums]options",
+      "path": "https://music4.bemuse.ninja/songs/[frums]options/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "chart_names": {
+        "bmsA.bms": "ANOTHER",
+        "bmsH.bms": "HYPER",
+        "bmsN.bms": "NORMAL"
+      },
+      "charts": [
+        {
+          "md5": "78fca052a0a44f57c1fd9611a0602e13",
+          "info": {
+            "title": "Ｂｅ－音楽スクリプト",
+            "artist": "Ｎｅｇｏ＿ｔｉａｔｏｒ/映像：Fiz",
+            "genre": "Ｖａｐｏｒｗａｖｅ",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 9
+          },
+          "noteCount": 729,
+          "bpm": {
+            "init": 90,
+            "min": 90,
+            "median": 90,
+            "max": 90
+          },
+          "duration": 137.66666666666666,
+          "scratch": true,
+          "keys": "7K",
+          "file": "bmsA.bms"
+        },
+        {
+          "md5": "9374f6e9c0af5a30144a51b9351567d1",
+          "info": {
+            "title": "Ｂｅ－音楽スクリプト",
+            "artist": "Ｎｅｇｏ＿ｔｉａｔｏｒ/映像：Fiz",
+            "genre": "Ｖａｐｏｒｗａｖｅ",
+            "subtitles": [
+              "5K NORMAL"
+            ],
+            "subartists": [
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 4
+          },
+          "noteCount": 380,
+          "bpm": {
+            "init": 90,
+            "min": 90,
+            "median": 90,
+            "max": 90
+          },
+          "duration": 137.66666666666666,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5easy_renote.bms"
+        },
+        {
+          "md5": "2f5d7a695c32ae13222209fc11980571",
+          "info": {
+            "title": "Ｂｅ－音楽スクリプト",
+            "artist": "Ｎｅｇｏ＿ｔｉａｔｏｒ/映像：Fiz",
+            "genre": "Ｖａｐｏｒｗａｖｅ",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 3,
+            "level": 6
+          },
+          "noteCount": 555,
+          "bpm": {
+            "init": 90,
+            "min": 90,
+            "median": 90,
+            "max": 90
+          },
+          "duration": 137.66666666666666,
+          "scratch": true,
+          "keys": "7K",
+          "file": "bmsH.bms"
+        },
+        {
+          "md5": "e76b68df1bd9600ed254253da4043c32",
+          "info": {
+            "title": "Ｂｅ－音楽スクリプト",
+            "artist": "Ｎｅｇｏ＿ｔｉａｔｏｒ/映像：Fiz",
+            "genre": "Ｖａｐｏｒｗａｖｅ",
+            "subtitles": [],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 2
+          },
+          "noteCount": 265,
+          "bpm": {
+            "init": 90,
+            "min": 90,
+            "median": 90,
+            "max": 90
+          },
+          "duration": 137.66666666666666,
+          "scratch": true,
+          "keys": "7K",
+          "file": "bmsN.bms"
+        }
+      ],
+      "title": "Ｂｅ－音楽スクリプト",
+      "artist": "Ｎｅｇｏ＿ｔｉａｔｏｒ/映像：Fiz",
+      "genre": "Ｖａｐｏｒｗａｖｅ",
+      "bpm": 90,
+      "replaygain": "-7.84 dB",
+      "preview_offset": 4,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.webm",
+      "video_offset": 2.67,
+      "song_url": "https://soundcloud.com/nego_tiator/genre-shuffle-3be",
+      "bms_url": "https://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/54/",
+      "youtube_url": "https://www.youtube.com/watch?v=CYoEx_55Gis",
+      "bmssearch_id": "QSZlKXpISDNCTv",
+      "artist_url": "https://soundcloud.com/nego_tiator",
+      "readme": "README.md",
+      "added": "2021-10-26T00:00:00.000Z",
+      "id": "[nego_tiator]bms",
+      "path": "https://music4.bemuse.ninja/songs/[nego_tiator]bms/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "4367d08e785f29db6a17234e2dd3eab1",
+          "info": {
+            "title": "strawberry happiness",
+            "artist": "Ym1024 feat. lamie*",
+            "genre": "J-Fairy Pop",
+            "subtitles": [
+              "5key Hyper"
+            ],
+            "subartists": [
+              "Illustration : 恋々",
+              "obj.flicknote"
+            ],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 639,
+          "bpm": {
+            "init": 134,
+            "min": 134,
+            "median": 134,
+            "max": 134
+          },
+          "duration": 145.67316220256947,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5khyper_renote.sjis.bms"
+        },
+        {
+          "md5": "7ea28dfb1d05acb96bb47f548f4173bf",
+          "info": {
+            "title": "strawberry happiness",
+            "artist": "Ym1024 feat. lamie*",
+            "genre": "J-Fairy Pop",
+            "subtitles": [
+              "7key Hyper"
+            ],
+            "subartists": [
+              "Illustration : 恋々"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 697,
+          "bpm": {
+            "init": 134,
+            "min": 134,
+            "median": 134,
+            "max": 134
+          },
+          "duration": 145.67316220256947,
+          "scratch": true,
+          "keys": "7K",
+          "file": "strawberry_happiness_[7-8_Hyper].sjis.bme"
+        },
+        {
+          "md5": "b0c1d6c3e6a72b50dd33057fb7c9d718",
+          "info": {
+            "title": "strawberry happiness",
+            "artist": "Ym1024 feat. lamie*",
+            "genre": "J-Fairy Pop",
+            "subtitles": [
+              "7key Another"
+            ],
+            "subartists": [
+              "Illustration : 恋々"
+            ],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 984,
+          "bpm": {
+            "init": 134,
+            "min": 134,
+            "median": 134,
+            "max": 134
+          },
+          "duration": 145.67316220256947,
+          "scratch": true,
+          "keys": "7K",
+          "file": "strawberry_happiness_[7-A_Another].sjis.bme"
+        },
+        {
+          "md5": "74fc279106ec2d240b2e99ec98700057",
+          "info": {
+            "title": "strawberry happiness",
+            "artist": "Ym1024 feat. lamie*",
+            "genre": "J-Fairy Pop",
+            "subtitles": [
+              "5key Easy"
+            ],
+            "subartists": [
+              "Illustration : 恋々",
+              "obj.flicknote"
+            ],
+            "difficulty": 2,
+            "level": 2
+          },
+          "noteCount": 171,
+          "bpm": {
+            "init": 134,
+            "min": 134,
+            "median": 134,
+            "max": 134
+          },
+          "duration": 145.67316220256947,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5keasy_renote.sjis.bms"
+        },
+        {
+          "md5": "fce44bad8658fe7a9380e26bef938832",
+          "info": {
+            "title": "strawberry happiness",
+            "artist": "Ym1024 feat. lamie*",
+            "genre": "J-Fairy Pop",
+            "subtitles": [
+              "7key Normal"
+            ],
+            "subartists": [
+              "Illustration : 恋々"
+            ],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 415,
+          "bpm": {
+            "init": 134,
+            "min": 134,
+            "median": 134,
+            "max": 134
+          },
+          "duration": 145.67316220256947,
+          "scratch": true,
+          "keys": "7K",
+          "file": "strawberry_happiness_[7-5_Normal].sjis.bme"
+        }
+      ],
+      "title": "strawberry happiness",
+      "artist": "Ym1024 feat. lamie*",
+      "genre": "J-Fairy Pop",
+      "bpm": 134,
+      "replaygain": "-10.59 dB",
+      "preview_offset": 17.6,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/ym1024/bofu2015-strawberry-happiness-feat-lamie",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=261",
+      "long_url": "https://diverse.direct/aliesrite/strawberry-happiness-ep/",
+      "bmssearch_id": "3__7cFPy2d0dtU",
+      "artist_url": "http://yellowmapleleaf.com/",
+      "readme": "README.md",
+      "added": "2021-10-26T00:00:00.000Z",
+      "id": "[ym1024]straw",
+      "path": "https://music4.bemuse.ninja/songs/[ym1024]straw/"
     }
   ],
   "urls": [
@@ -9643,6 +10260,22 @@
     },
     {
       "url": "https://music4.bemuse.ninja/songs/[yukitani]acp/"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[frums]credits/",
+      "added": "2021-10-26"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[frums]options/",
+      "added": "2021-10-26"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[nego_tiator]bms/",
+      "added": "2021-10-26"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[ym1024]straw/",
+      "added": "2021-10-26"
     }
   ]
 }
