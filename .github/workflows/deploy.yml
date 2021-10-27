@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: pip install s3cmd
-      - run: s3cmd --host='https://ap-south-1.linodeobjects.com' --host-bucket='https://%(bucket)s.ap-south-1.linodeobjects.com' put index.json s3://music4.bemuse.ninja/server/index.json --acl-public --add-header='cache-control:public,max-age=60'
+      - run: s3cmd --host='https://ap-south-1.linodeobjects.com' --host-bucket='https://%(bucket)s.ap-south-1.linodeobjects.com' put index.json s3://music4.bemuse.ninja/server/index.json --acl-public --add-header='cache-control:public,max-age=60,s-maxage=60'
         env:
           AWS_ACCESS_KEY_ID: 0C3CA3AOYYPEI0B2ZJ1Y
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_0C3CA3AOYYPEI0B2ZJ1Y }}
