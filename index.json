@@ -10076,6 +10076,348 @@
       "added": "2021-10-26T00:00:00.000Z",
       "id": "[ym1024]straw",
       "path": "https://music4.bemuse.ninja/songs/[ym1024]straw/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "28b764e11cf123cd6fe7d3dbf9f9204d",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "のあ / Maeus"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 170,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_breathe_b.bms"
+        },
+        {
+          "md5": "6f04dd5704134a4dddfd3bc1f1ae5836",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "のあ / Maeus"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1489,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_breathe_a.bms"
+        },
+        {
+          "md5": "58e15a7507dbc2e1be555d97ee05037e",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[5K BEGINNER]"
+            ],
+            "subartists": [
+              "のあ / Maeus",
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 2
+          },
+          "noteCount": 219,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5ez_renote.bms"
+        },
+        {
+          "md5": "0db2f0bf824aaf70563b462e58274d3c",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "のあ / Maeus"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 322,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_breathe_n.bms"
+        },
+        {
+          "md5": "a6ae6fbe27264bac1d372a16b5a5afa0",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "のあ / Maeus"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 900,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_breathe_h.bms"
+        },
+        {
+          "md5": "9a482e0b697042322bc7cad50fa93c5c",
+          "info": {
+            "title": "breathe",
+            "artist": "qfeileadh",
+            "genre": "narrative",
+            "subtitles": [
+              "[SP INSANE]"
+            ],
+            "subartists": [
+              "のあ / Maeus / obj:C4"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2096,
+          "bpm": {
+            "init": 126,
+            "min": 126,
+            "median": 126,
+            "max": 126
+          },
+          "duration": 140.95238095238093,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_breathe_i.bms"
+        }
+      ],
+      "title": "breathe",
+      "artist": "qfeileadh",
+      "genre": "narrative",
+      "bpm": 126,
+      "replaygain": "-11.26 dB",
+      "preview_offset": 2,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/user-684510694/breathe-master1005",
+      "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=127",
+      "youtube_url": "https://www.youtube.com/watch?v=WufcmZU_3OE",
+      "long_url": "https://gdbg.tv/release/2019-5-9",
+      "bmssearch_id": "oKvYwR91dwaM0B",
+      "artist_url": "https://twitter.com/qfeileadh",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.webm",
+      "video_offset": 1.93,
+      "added": "2021-10-28T00:00:00.000Z",
+      "id": "[qfeileadh]breathe_r2",
+      "path": "https://music4.bemuse.ninja/songs/[qfeileadh]breathe_r2/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "3cc0f4b7db8b4684c051ec40e52f894e",
+          "info": {
+            "title": "2anyFirst",
+            "artist": "Sobrem",
+            "genre": "Tips & Tricks",
+            "subtitles": [
+              "7-H"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 8
+          },
+          "noteCount": 623,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 156.3690476190478,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_21_7h.bme"
+        },
+        {
+          "md5": "1044a3a6d226042aa2c804f6f5b5d8e4",
+          "info": {
+            "title": "2anyFirst",
+            "artist": "Sobrem",
+            "genre": "Tips & Tricks",
+            "subtitles": [
+              "7-N"
+            ],
+            "subartists": [],
+            "difficulty": 0,
+            "level": 4
+          },
+          "noteCount": 307,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 156.3690476190478,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_21_7n.bme"
+        },
+        {
+          "md5": "79450e5be32d21bde142b4ec768fb477",
+          "info": {
+            "title": "2anyFirst",
+            "artist": "Sobrem",
+            "genre": "Tips & Tricks",
+            "subtitles": [
+              "5-beginner"
+            ],
+            "subartists": [
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 1
+          },
+          "noteCount": 132,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 156.3690476190478,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5ez_renote.bms"
+        },
+        {
+          "md5": "f5456ea7a63431ce7575d2583fcf9c68",
+          "info": {
+            "title": "2anyFirst",
+            "artist": "Sobrem",
+            "genre": "Tips & Tricks",
+            "subtitles": [
+              "7-A"
+            ],
+            "subartists": [],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1326,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 156.3690476190478,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_21_7a.bme"
+        },
+        {
+          "md5": "c9eb53c2672dcf859fed56385b47932b",
+          "info": {
+            "title": "2anyFirst",
+            "artist": "Sobrem",
+            "genre": "Tips & Tricks",
+            "subtitles": [
+              "7-tutorial"
+            ],
+            "subartists": [],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 115,
+          "bpm": {
+            "init": 147,
+            "min": 147,
+            "median": 147,
+            "max": 147
+          },
+          "duration": 156.3690476190478,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_21_7t.bme"
+        }
+      ],
+      "title": "2anyFirst",
+      "artist": "Sobrem",
+      "genre": "Tips & Tricks",
+      "bpm": 147,
+      "replaygain": "-9.56 dB",
+      "preview_offset": 1.25,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/sobrem/2anyfirst",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=127",
+      "youtube_url": "https://www.youtube.com/watch?v=pW2tNzAwzqo",
+      "long_url": "https://gdbg.tv/release/2019-1-1",
+      "bmssearch_id": "ShrCmvxfO9CkDY",
+      "artist_url": "https://sobrem.tistory.com/",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.webm",
+      "video_offset": 1.1,
+      "added": "2021-10-28T00:00:00.000Z",
+      "id": "[sobrem]2anyFirst_r2",
+      "path": "https://music4.bemuse.ninja/songs/[sobrem]2anyFirst_r2/"
     }
   ],
   "urls": [
@@ -10277,6 +10619,14 @@
     {
       "url": "https://music4.bemuse.ninja/songs/[ym1024]straw/",
       "added": "2021-10-26"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[qfeileadh]breathe_r2/",
+      "added": "2021-10-28"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[sobrem]2anyFirst_r2/",
+      "added": "2021-10-28"
     }
   ]
 }
