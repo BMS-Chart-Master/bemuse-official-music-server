@@ -10418,6 +10418,222 @@
       "added": "2021-10-28T00:00:00.000Z",
       "id": "[sobrem]2anyFirst_r2",
       "path": "https://music4.bemuse.ninja/songs/[sobrem]2anyFirst_r2/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "a556c7a8c1a0c1aea208757b6196de72",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "mov:自動車 原付"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 244,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_spb.bms"
+        },
+        {
+          "md5": "3efff1ccaa935a090f8ec25df3a06689",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[5K HYPER]"
+            ],
+            "subartists": [
+              "mov:自動車 原付",
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 972,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5kh_renote.utf8.bms"
+        },
+        {
+          "md5": "e26844aabaa0348d3bece720d7bc4825",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "mov:自動車 原付"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1516,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_spa.bms"
+        },
+        {
+          "md5": "9a08d5f460c306468ec1023492b48c63",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "mov:自動車 原付"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 811,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_sph.bms"
+        },
+        {
+          "md5": "aebb02d4c00dda5c10a82647da2be846",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[SP INSANE]"
+            ],
+            "subartists": [
+              "mov:自動車 原付"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2158,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_spi.bms"
+        },
+        {
+          "md5": "23b206ba12ffd48c649d195a2d3e97d7",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[5K BEGINNER]"
+            ],
+            "subartists": [
+              "mov:自動車 原付",
+              "obj.flicknote"
+            ],
+            "difficulty": 0,
+            "level": 1
+          },
+          "noteCount": 169,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "5K",
+          "file": "_5kb_renote.utf8.bms"
+        },
+        {
+          "md5": "bac1c309b15abbef7faab55742fc4014",
+          "info": {
+            "title": "Prismrose",
+            "artist": "qfeileadh feat.レゾナンスもえこ",
+            "genre": "Flowering Pop",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "mov:自動車 原付"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 310,
+          "bpm": {
+            "init": 136,
+            "min": 136,
+            "median": 136,
+            "max": 136
+          },
+          "duration": 123.86029411764706,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_spn.bms"
+        }
+      ],
+      "title": "Prismrose",
+      "artist": "qfeileadh feat.レゾナンスもえこ",
+      "genre": "Flowering Pop",
+      "bpm": 136,
+      "replaygain": "-11.25 dB",
+      "preview_offset": 22,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/user-684510694/prismrose-master2-202002202",
+      "bms_url": "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=19&order=reg&odtype=a",
+      "youtube_url": "https://www.youtube.com/watch?v=dV4fPh1OvCc",
+      "bmssearch_id": "PiQ7hFz9rUJJON",
+      "artist_url": "https://soundcloud.com/user-684510694",
+      "readme": "README.md",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.7647058824,
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "added": "2022-01-01T00:00:00.000Z",
+      "id": "[qfeileadh]prismrose",
+      "path": "https://music4.bemuse.ninja/songs/[qfeileadh]prismrose/"
     }
   ],
   "urls": [
@@ -10627,6 +10843,10 @@
     {
       "url": "https://music4.bemuse.ninja/songs/[sobrem]2anyFirst_r2/",
       "added": "2021-10-28"
+    },
+    {
+      "url": "https://music4.bemuse.ninja/songs/[qfeileadh]prismrose/",
+      "added": "2022-01-01"
     }
   ]
 }
